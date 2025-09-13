@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Physical Education Quiz and Magazine Website
 
 This is a web project created for a Physical Education class at Lycée Ben M'sik, developed by Zaid.
