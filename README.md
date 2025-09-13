@@ -1,6 +1,6 @@
 # Physical Education Quiz and Magazine Website
 
-This is a web project created for a Physical Education class at Lycée Ben M'sik, developed by a student team led by Professor Omar Fernani.
+This is a web project created for a Physical Education class at Lycée Ben M'sik, developed by Zaid.
 
 ## Project Description
 
@@ -27,13 +27,7 @@ The goal of this project is to provide a comprehensive and engaging learning exp
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/Zaid-EL-IDRISSI/PVB-website.git
     ```
 2.  **Open the files:**
     Navigate to the project folder and open `index.html` in your web browser. You can access the quiz by clicking the "JOUER" button, which will take you to `qcmfolder/indexqcm.html`.
-
-## Credits
-
-* **Project Lead:** Professor Omar Fernani
-* **Development & Design:** Zaid AGUERDOUM
-* **Team:** The "black uniform" team from Lycée Ben M'sik
