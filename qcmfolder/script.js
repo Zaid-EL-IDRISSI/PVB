@@ -243,4 +243,6 @@ function input3oncklick(){
 }
 function input4oncklick(){
     inputtselection=4;
+
 }
+// © 2025 Zaid El Idrissi — Licensed under the MIT License
