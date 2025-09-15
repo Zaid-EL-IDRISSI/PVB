@@ -34,11 +34,14 @@ The goal of this project is to provide a comprehensive and engaging learning exp
 
 ## How to Run the Project Locally
 
-1.  **Clone the repository:**
+1. **You can try the website directly here:**  
+👉 [Physical Education Quiz and Magazine Website](https://zaid-el-idrissi.github.io/Physical-Education-Quiz-and-Magazine-Website)
+
+2.  **Clone the repository:**
     ```bash
     git clone https://github.com/Zaid-EL-IDRISSI/PVB-website.git
     ```
-2.  **Open the files:**
+3.  **Open the files:**
     Navigate to the project folder and open `index.html` in your web browser. You can access the quiz by clicking the "JOUER" button, which will take you to `qcmfolder/indexqcm.html`.
 ---
 ## License
